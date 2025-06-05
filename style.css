@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 2rem;
+  background: #eeebeb;
+}
+#countdown {
+  font-size: 2rem;
+  background: white;
+  display: inline-block;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #ccc;
+}
