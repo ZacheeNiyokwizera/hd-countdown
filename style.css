@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   text-align: center;
   padding: 2rem;
-  background: #eeebeb;
+  background: #659cbf;
 }
 #countdown {
   font-size: 2rem;
@@ -10,5 +10,5 @@ body {
   display: inline-block;
   padding: 1rem 2rem;
   border-radius: 8px;
-  box-shadow: 0 0 10px #ccc;
+  box-shadow: 0 0 10px #733232;
 }
